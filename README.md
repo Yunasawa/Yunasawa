@@ -9,7 +9,7 @@
   - A
 </li>
 
-<h2> ⭐ What I use </h2>
+<h2> ⭐ Developer Tech </h2>
 <p align="left">
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Yunasawa/Yunasawa/assets/113672166/e42b65f7-8ff9-42c5-81fc-5d61b0b70864" alt="c" height="40"/> </a>&nbsp;
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Yunasawa/Yunasawa/assets/113672166/ffe30eb0-2144-48b2-b6f4-e3b619231997" alt="c" height="40"/> </a>&nbsp;
@@ -27,14 +27,14 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="40"/> </a>&nbsp;
 </p>
 
-
+<h2> ⭐ Social & Professional </h2>
 
 <h2> ⭐ Github Stats </h2>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
+  <!--<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>-->
 </p>
 
 

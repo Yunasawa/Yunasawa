@@ -32,13 +32,13 @@
 <h2> ⭐ Github Stats </h2>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>
+  <img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
+  <img align="left" width="37%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
+  <img align="left" width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>
 </p>
 
 
-<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+<br></br><br></br><br></br><br>
 
 <h2> ⭐ Trophies and Achievements </h2>
 

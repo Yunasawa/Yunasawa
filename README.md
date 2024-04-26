@@ -2,12 +2,11 @@
 
 <h3 align="center"> Hi👋 I'm Yunasawa, a guy with a passion for developing games 🎮 </h3>
 
-<h2> ⭐ About </h2>
+<h2> ⭐ About me </h2>
 
-<li>
-  - I'm
-  - A
-</li>
+- I am currently doing developing games with Unity <img src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/>, almost projects I do are in 3D.
+- Some of my favorite genres are: <b> RPG, MMORPG, Puzzle, Horror, Board game, ect </b>. And... I don't like <b> RTS </b>!
+- For now, I am in progress of making an RPG game, it's not really good as I don't have a designer or an artist, everything in the game are made by myself. Currently, I just want to add varial things and technics into the game so yeah, it's will be a mess (or not)
 
 <h2> ⭐ Developer Tech </h2>
 <p align="left">

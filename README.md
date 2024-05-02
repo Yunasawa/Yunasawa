@@ -37,7 +37,7 @@
 </p>
 
 
-<br></br><br></br><br></br><br>
+<br></br><br></br><br></br><br></br><br></br>
 
 <h2> ⭐ Trophies and Achievements </h2>
 

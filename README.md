@@ -32,7 +32,7 @@
 <h2> ⭐ Github Stats </h2>
 
 <p align="center">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
   <img align="right" width="50.5%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/>
   
   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=tokyonight&hide_border=true"/>

@@ -36,7 +36,7 @@
   <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
   <br>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Yunasawa&repo=ynl-editor&theme=cobalt"/>
+  <a href="https://github.com/Yunasawa/YNL-Editor"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Yunasawa&repo=ynl-editor&theme=cobalt"/></a>
 </p>
 
 

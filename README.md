@@ -29,6 +29,12 @@
 
 <h2> ⭐ Social & Professional </h2>
 
+<div align="left">
+  <!--<a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"/></a>-->
+  <a href="https://www.youtube.com/channel/UCYm8s3E0i_fCXkLYlXLej8g"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61558367095632"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/></a>
+</div>
+
 <h2> ⭐ Github Stats </h2>
 
 <p align="center">

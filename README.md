@@ -32,16 +32,10 @@
 <h2> ⭐ Github Stats </h2>
 
 <p align="center">
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=cobalt"/>
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yunasawa&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/>
   <br>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=dark"/>
+  <img align="left" width="97.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=yunasawa&theme=tokyonight&hide_border=true"/>
   <!--<a href="https://github.com/Yunasawa/YNL-Editor"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Yunasawa&repo=ynl-editor&theme=cobalt"/></a>-->
+  <img src="https://github-profile-trophy.vercel.app?username=Yunasawa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />  
 </p>
-
-
-<br></br><br></br><br></br><br></br><br></br>
-
-<h2> ⭐ Trophies and Achievements </h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yunasawa&theme=onedark)](https://github.com/yunasawa/github-profile-trophy)

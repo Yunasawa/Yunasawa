@@ -5,9 +5,11 @@
 <h2> ⭐ About me </h2>
 
 > [!Note]
-> - I am currently doing developing games with Unity <img src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/>, almost projects I do are in 3D.
+> - I am currently doing developing games with Unity <img align="center" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/>, almost projects I do are in 3D.
 > - I love creating tools and game prototypes.
 > - Some of my favorite genres are: <b> RPG, MMORPG, Puzzle, Horror, Board game, ect </b>. And... I don't like <b> RTS </b>!
+>
+> - Take a look on my portfolio: <a href="https://github.com/Yunasawa/YNA-Portfolio-Unity">YNA Portfolio - Unity <img align="center" src="https://github.com/Yunasawa/Yunasawa/assets/113672166/1fbfd959-935b-4c66-9537-b67e91e1f420" alt="c" height="20"/></a>
 
 <h2> ⭐ Developer Tech </h2>
 <p align="left">

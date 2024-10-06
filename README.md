@@ -48,3 +48,7 @@
   <td colspan=2><img src="https://github-profile-trophy.vercel.app?username=Yunasawa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"/></td>
 </tr>
 </table>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Yunasawa&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>

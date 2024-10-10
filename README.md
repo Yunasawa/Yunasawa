@@ -1,9 +1,8 @@
 <img width="100%" src="https://github.com/user-attachments/assets/82d272e9-a621-44bb-8699-55d8773f5280" alt="script">
 
-<img align=right src="https://visitcount.itsvg.in/api?id=Yunasawa&label=Profile%20Views&color=12&icon=5&pretty=true" />
-
 <h3 align="center"><i> "Coding up cool tools for the digital toolbox" </i></h3>
 
+<img align=right src="https://visitcount.itsvg.in/api?id=Yunasawa&label=Profile%20Views&color=12&icon=5&pretty=true" />
 <h2> ⭐ About me </h2>
 
 > [!Note]
@@ -51,6 +50,8 @@
 </tr>
 </table>
 
+<!--
 <h2> ⭐ Leetcode Stats </h2>
 
 <img position=relative align="left" width="40%" src="https://leetcode.card.workers.dev/Yunasawa?theme=nord&font=baloo&extension=null"/>
+-->

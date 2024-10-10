@@ -1,5 +1,7 @@
 <img width="100%" src="https://github.com/user-attachments/assets/82d272e9-a621-44bb-8699-55d8773f5280" alt="script">
 
+<img align=right src="https://visitcount.itsvg.in/api?id=Yunasawa&label=Profile%20Views&color=12&icon=5&pretty=true" />
+
 <h3 align="center"><i> "Coding up cool tools for the digital toolbox" </i></h3>
 
 <h2> ⭐ About me </h2>
@@ -45,10 +47,10 @@
   <td><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/></td>
 </tr>
 <tr>
-  <td colspan=2><img src="https://github-profile-trophy.vercel.app?username=Yunasawa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"/></td>
+  <td colspan=2><div align=center><img src="https://github-profile-trophy.vercel.app?username=Yunasawa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" alt="trophy graph"/></div></td>
 </tr>
 </table>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yunasawa&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
+<h2> ⭐ Leetcode Stats </h2>
+
+<img position=relative align="left" width="40%" src="https://leetcode.card.workers.dev/Yunasawa?theme=nord&font=baloo&extension=null"/>

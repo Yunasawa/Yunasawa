@@ -42,8 +42,8 @@
 
 <table>
 <tr>
-  <!--https://streak-stats.demolab.com/?user=Yunasawa&theme=tokyonight&hide_border=true-->
-  <td width=50%><img position=relative align="left" width="100%" src="https://github.com/user-attachments/assets/f042351d-905a-4d58-b6d7-8e5352087c36"/></td>
+  <td width=50%><img position=relative align="left" width="100%" src="https://streak-stats.demolab.com/?user=Yunasawa&theme=tokyonight&hide_border=true"/></td>
+  <!--<td width=50%><img position=relative align="left" width="100%" src="https://github.com/user-attachments/assets/f042351d-905a-4d58-b6d7-8e5352087c36"/></td>-->
   <td width=50%><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api?username=yunasawa&show_icons=true&locale=en&theme=tokyonight&hide_border=true"/></td>
 </tr>
 <tr>

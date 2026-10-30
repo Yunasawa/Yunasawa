@@ -6,7 +6,7 @@
 <h2> ⭐ About me </h2>
 
 > [!Note]
-> - Hi, I'm an indie game dev working on some games like Irishia
+> - Developer of IRISHIA
 > - Take a look on my workspace: <a href="https://yunasawa.github.io/YunaSpace/home/"><img align="center" src="https://yunasawa.github.io/YunaSpace/home/image/logo.png" alt="c" height="20"/> YunaSpace | Home</a>
 
 <h2> ⭐ Developer Tech </h2>
